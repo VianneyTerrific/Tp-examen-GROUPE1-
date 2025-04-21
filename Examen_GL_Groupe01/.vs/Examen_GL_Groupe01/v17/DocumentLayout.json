@@ -1,9 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Bahadoor\\Desktop\\Tp-examen-GROUPE1-\\Examen_GL_Groupe01\\",
+  "WorkspaceRootPath": "C:\\Users\\ABDUL_RAHIM\\Desktop\\Tp-examen-GROUPE1-\\Examen_GL_Groupe01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6E955D7D-F0AF-4CE7-B2D4-986E61C70324}|Examen_GL_Groupe01.csproj|c:\\users\\bahadoor\\desktop\\tp-examen-groupe1-\\examen_gl_groupe01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{6E955D7D-F0AF-4CE7-B2D4-986E61C70324}|Examen_GL_Groupe01.csproj|c:\\users\\abdul_rahim\\desktop\\tp-examen-groupe1-\\examen_gl_groupe01\\1. classes\\adresse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E955D7D-F0AF-4CE7-B2D4-986E61C70324}|Examen_GL_Groupe01.csproj|solutionrelative:1. classes\\adresse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E955D7D-F0AF-4CE7-B2D4-986E61C70324}|Examen_GL_Groupe01.csproj|c:\\users\\abdul_rahim\\desktop\\tp-examen-groupe1-\\examen_gl_groupe01\\1. classes\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E955D7D-F0AF-4CE7-B2D4-986E61C70324}|Examen_GL_Groupe01.csproj|solutionrelative:1. classes\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E955D7D-F0AF-4CE7-B2D4-986E61C70324}|Examen_GL_Groupe01.csproj|c:\\users\\abdul_rahim\\desktop\\tp-examen-groupe1-\\examen_gl_groupe01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6E955D7D-F0AF-4CE7-B2D4-986E61C70324}|Examen_GL_Groupe01.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -14,15 +22,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\ABDUL_RAHIM\\Desktop\\Tp-examen-GROUPE1-\\Examen_GL_Groupe01\\1. Classes\\DataAccess.cs",
+              "RelativeDocumentMoniker": "1. Classes\\DataAccess.cs",
+              "ToolTip": "C:\\Users\\ABDUL_RAHIM\\Desktop\\Tp-examen-GROUPE1-\\Examen_GL_Groupe01\\1. Classes\\DataAccess.cs",
+              "RelativeToolTip": "1. Classes\\DataAccess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T12:59:03.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Adresse.cs",
+              "DocumentMoniker": "C:\\Users\\ABDUL_RAHIM\\Desktop\\Tp-examen-GROUPE1-\\Examen_GL_Groupe01\\1. Classes\\Adresse.cs",
+              "RelativeDocumentMoniker": "1. Classes\\Adresse.cs",
+              "ToolTip": "C:\\Users\\ABDUL_RAHIM\\Desktop\\Tp-examen-GROUPE1-\\Examen_GL_Groupe01\\1. Classes\\Adresse.cs",
+              "RelativeToolTip": "1. Classes\\Adresse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T12:55:49.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Bahadoor\\Desktop\\Tp-examen-GROUPE1-\\Examen_GL_Groupe01\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ABDUL_RAHIM\\Desktop\\Tp-examen-GROUPE1-\\Examen_GL_Groupe01\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Bahadoor\\Desktop\\Tp-examen-GROUPE1-\\Examen_GL_Groupe01\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\ABDUL_RAHIM\\Desktop\\Tp-examen-GROUPE1-\\Examen_GL_Groupe01\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-21T12:33:30.609Z",
