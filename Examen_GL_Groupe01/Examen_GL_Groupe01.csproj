@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="1. Classes\DGVPrinter.cs" />
     <Compile Include="1. Classes\Domicile.cs" />
     <Compile Include="1. Classes\Personne.cs" />
     <Compile Include="1. Classes\Telephone.cs" />
