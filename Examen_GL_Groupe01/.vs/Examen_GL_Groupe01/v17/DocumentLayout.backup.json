@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\BENEDICTE\\Desktop\\Tp-examen-GROUPE1-\\Examen_GL_Groupe01\\",
+  "WorkspaceRootPath": "C:\\Users\\JONAM_INVESTMENT\\Desktop\\Tp-examen-GROUPE1-\\Examen_GL_Groupe01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6E955D7D-F0AF-4CE7-B2D4-986E61C70324}|Examen_GL_Groupe01.csproj|c:\\users\\benedicte\\desktop\\tp-examen-groupe1-\\examen_gl_groupe01\\1. classes\\telephone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E955D7D-F0AF-4CE7-B2D4-986E61C70324}|Examen_GL_Groupe01.csproj|solutionrelative:1. classes\\telephone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6E955D7D-F0AF-4CE7-B2D4-986E61C70324}|Examen_GL_Groupe01.csproj|c:\\users\\jonam_investment\\desktop\\tp-examen-groupe1-\\examen_gl_groupe01\\1. classes\\dgvprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E955D7D-F0AF-4CE7-B2D4-986E61C70324}|Examen_GL_Groupe01.csproj|solutionrelative:1. classes\\dgvprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Telephone.cs",
-              "DocumentMoniker": "C:\\Users\\BENEDICTE\\Desktop\\Tp-examen-GROUPE1-\\Examen_GL_Groupe01\\1. Classes\\Telephone.cs",
-              "RelativeDocumentMoniker": "1. Classes\\Telephone.cs",
-              "ToolTip": "C:\\Users\\BENEDICTE\\Desktop\\Tp-examen-GROUPE1-\\Examen_GL_Groupe01\\1. Classes\\Telephone.cs",
-              "RelativeToolTip": "1. Classes\\Telephone.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGUAAAAJAAAAAAAAAA==",
+              "Title": "DGVPrinter.cs",
+              "DocumentMoniker": "C:\\Users\\JONAM_INVESTMENT\\Desktop\\Tp-examen-GROUPE1-\\Examen_GL_Groupe01\\1. Classes\\DGVPrinter.cs",
+              "RelativeDocumentMoniker": "1. Classes\\DGVPrinter.cs",
+              "ToolTip": "C:\\Users\\JONAM_INVESTMENT\\Desktop\\Tp-examen-GROUPE1-\\Examen_GL_Groupe01\\1. Classes\\DGVPrinter.cs",
+              "RelativeToolTip": "1. Classes\\DGVPrinter.cs",
+              "ViewState": "AgIAAE4GAAAAAAAAAAAkwCoPAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T11:08:33.39Z",
+              "WhenOpened": "2025-04-22T14:39:47.4Z",
               "EditorCaption": ""
             }
           ]
