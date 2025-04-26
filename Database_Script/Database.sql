@@ -8,8 +8,8 @@ create table personne
 (
 	id varchar(50),
 	nom varchar(50) not null,
-	postnom varchar(50)not null,
-	prenom varchar(50),
+	postnom varchar(50) not null,
+	prenom varchar(50) not null,
 	sexe varchar(1) default 'M' not null,
 	constraint pk_personne primary key(id),
 	constraint uk_personne unique(nom,postnom,prenom)
