@@ -171,6 +171,12 @@
     <Compile Include="2. Users Controls\frmAdresse.Designer.cs">
       <DependentUpon>frmAdresse.cs</DependentUpon>
     </Compile>
+    <Compile Include="2. Users Controls\frmDomicile.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="2. Users Controls\frmDomicile.Designer.cs">
+      <DependentUpon>frmDomicile.cs</DependentUpon>
+    </Compile>
     <Compile Include="2. Users Controls\frmPersonne.cs">
       <SubType>UserControl</SubType>
     </Compile>
