@@ -5,6 +5,7 @@ using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Examen_GL_Groupe01._4._Connexion;
 
 namespace Examen_GL_Groupe01._1._Classes
 {

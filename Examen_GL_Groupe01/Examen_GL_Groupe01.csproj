@@ -161,6 +161,16 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="1. Classes\Adresse.cs" />
+    <Compile Include="1. Classes\DGVPrinter.cs" />
+    <Compile Include="1. Classes\Domicile.cs" />
+    <Compile Include="1. Classes\Personne.cs" />
+    <Compile Include="1. Classes\Telephone.cs" />
+    <Compile Include="2. Users Controls\frmAdresse.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="2. Users Controls\frmAdresse.Designer.cs">
+      <DependentUpon>frmAdresse.cs</DependentUpon>
+    </Compile>
     <Compile Include="4. Connexion\DataAccess.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
@@ -194,7 +204,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="2. Users Controls\" />
     <Folder Include="3. Forms\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
