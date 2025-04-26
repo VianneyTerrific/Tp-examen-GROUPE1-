@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Examen_GL_Groupe01
+namespace Examen_GL_Groupe01._2._Users_Controls
 {
-    public partial class Form1 : Form
+    public partial class frmTelephone : UserControl
     {
-        public Form1()
+        public frmTelephone()
         {
             InitializeComponent();
         }
