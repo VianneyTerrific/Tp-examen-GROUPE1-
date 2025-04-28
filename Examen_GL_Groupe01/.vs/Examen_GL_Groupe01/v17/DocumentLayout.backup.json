@@ -1,12 +1,40 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\FIDELE\\Desktop\\Tp-examen-GROUPE1-\\Examen_GL_Groupe01\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\AMINI ROSINE\\Desktop\\Tp-examen-GROUPE1-\\Examen_GL_Groupe01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E955D7D-F0AF-4CE7-B2D4-986E61C70324}|Examen_GL_Groupe01.csproj|c:\\users\\amini rosine\\desktop\\tp-examen-groupe1-\\examen_gl_groupe01\\2. users controls\\frmadresse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E955D7D-F0AF-4CE7-B2D4-986E61C70324}|Examen_GL_Groupe01.csproj|solutionrelative:2. users controls\\frmadresse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmAdresse.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AMINI ROSINE\\Desktop\\Tp-examen-GROUPE1-\\Examen_GL_Groupe01\\2. Users Controls\\frmAdresse.cs",
+              "RelativeDocumentMoniker": "2. Users Controls\\frmAdresse.cs",
+              "ToolTip": "C:\\Users\\AMINI ROSINE\\Desktop\\Tp-examen-GROUPE1-\\Examen_GL_Groupe01\\2. Users Controls\\frmAdresse.cs [Design]",
+              "RelativeToolTip": "2. Users Controls\\frmAdresse.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T09:19:44.915Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
