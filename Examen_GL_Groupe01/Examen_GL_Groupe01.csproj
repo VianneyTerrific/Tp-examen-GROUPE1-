@@ -189,11 +189,11 @@
     <Compile Include="2. Users Controls\frmTelephone.Designer.cs">
       <DependentUpon>frmTelephone.cs</DependentUpon>
     </Compile>
-    <Compile Include="3. Forms\FrmConnexion.cs">
+    <Compile Include="3. Forms\frmConnexion.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="3. Forms\FrmConnexion.Designer.cs">
-      <DependentUpon>FrmConnexion.cs</DependentUpon>
+    <Compile Include="3. Forms\frmConnexion.Designer.cs">
+      <DependentUpon>frmConnexion.cs</DependentUpon>
     </Compile>
     <Compile Include="3. Forms\frmPrincipal.cs">
       <SubType>Form</SubType>
@@ -207,8 +207,8 @@
     <EmbeddedResource Include="2. Users Controls\frmAdresse.resx">
       <DependentUpon>frmAdresse.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="3. Forms\FrmConnexion.resx">
-      <DependentUpon>FrmConnexion.cs</DependentUpon>
+    <EmbeddedResource Include="2. Users Controls\frmDomicile.resx">
+      <DependentUpon>frmDomicile.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
