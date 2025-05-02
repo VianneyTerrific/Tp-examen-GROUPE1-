@@ -1,12 +1,52 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\BAHADOOR MULOHWE\\Desktop\\Tp-examen-GROUPE1-\\Examen_GL_Groupe01\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Bahadoor\\Desktop\\Tp-examen-GROUPE1-\\Examen_GL_Groupe01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E955D7D-F0AF-4CE7-B2D4-986E61C70324}|Examen_GL_Groupe01.csproj|c:\\users\\bahadoor\\desktop\\tp-examen-groupe1-\\examen_gl_groupe01\\3. forms\\frmconnexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E955D7D-F0AF-4CE7-B2D4-986E61C70324}|Examen_GL_Groupe01.csproj|solutionrelative:3. forms\\frmconnexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E955D7D-F0AF-4CE7-B2D4-986E61C70324}|Examen_GL_Groupe01.csproj|c:\\users\\bahadoor\\desktop\\tp-examen-groupe1-\\examen_gl_groupe01\\3. forms\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E955D7D-F0AF-4CE7-B2D4-986E61C70324}|Examen_GL_Groupe01.csproj|solutionrelative:3. forms\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmConnexion.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Bahadoor\\Desktop\\Tp-examen-GROUPE1-\\Examen_GL_Groupe01\\3. Forms\\frmConnexion.cs",
+              "RelativeDocumentMoniker": "3. Forms\\frmConnexion.cs",
+              "ToolTip": "C:\\Users\\Bahadoor\\Desktop\\Tp-examen-GROUPE1-\\Examen_GL_Groupe01\\3. Forms\\frmConnexion.cs [Design]",
+              "RelativeToolTip": "3. Forms\\frmConnexion.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T15:34:52.241Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmPrincipal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Bahadoor\\Desktop\\Tp-examen-GROUPE1-\\Examen_GL_Groupe01\\3. Forms\\frmPrincipal.cs",
+              "RelativeDocumentMoniker": "3. Forms\\frmPrincipal.cs",
+              "ToolTip": "C:\\Users\\Bahadoor\\Desktop\\Tp-examen-GROUPE1-\\Examen_GL_Groupe01\\3. Forms\\frmPrincipal.cs [Design]",
+              "RelativeToolTip": "3. Forms\\frmPrincipal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T15:34:50.91Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
