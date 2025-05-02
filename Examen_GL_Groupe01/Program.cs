@@ -17,7 +17,7 @@ namespace Examen_GL_Groupe01
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmPrincipal());
+            Application.Run(new frmConnexion());
         }
     }
 }
