@@ -391,3 +391,15 @@ C:\Users\Bahadoor\Desktop\Tp-examen-GROUPE1-\Examen_GL_Groupe01\obj\Debug\Examen
 C:\Users\Bahadoor\Desktop\Tp-examen-GROUPE1-\Examen_GL_Groupe01\obj\Debug\Examen_G.D3B51151.Up2Date
 C:\Users\Bahadoor\Desktop\Tp-examen-GROUPE1-\Examen_GL_Groupe01\obj\Debug\Examen_GL_Groupe01.exe
 C:\Users\Bahadoor\Desktop\Tp-examen-GROUPE1-\Examen_GL_Groupe01\obj\Debug\Examen_GL_Groupe01.pdb
+C:\Users\AGENORWOTH MUNGANGA\Desktop\Tp-examen-GROUPE1-\Examen_GL_Groupe01\obj\Debug\Examen_GL_Groupe01.csproj.AssemblyReference.cache
+C:\Users\AGENORWOTH MUNGANGA\Desktop\Tp-examen-GROUPE1-\Examen_GL_Groupe01\obj\Debug\Examen_GL_Groupe01._2._Users_Controls.frmAdresse.resources
+C:\Users\AGENORWOTH MUNGANGA\Desktop\Tp-examen-GROUPE1-\Examen_GL_Groupe01\obj\Debug\Examen_GL_Groupe01._2._Users_Controls.frmDomicile.resources
+C:\Users\AGENORWOTH MUNGANGA\Desktop\Tp-examen-GROUPE1-\Examen_GL_Groupe01\obj\Debug\Examen_GL_Groupe01._2._Users_Controls.frmPersonne.resources
+C:\Users\AGENORWOTH MUNGANGA\Desktop\Tp-examen-GROUPE1-\Examen_GL_Groupe01\obj\Debug\Examen_GL_Groupe01._2._Users_Controls.frmTelephone.resources
+C:\Users\AGENORWOTH MUNGANGA\Desktop\Tp-examen-GROUPE1-\Examen_GL_Groupe01\obj\Debug\Examen_GL_Groupe01._3._Forms.frmConnexion.resources
+C:\Users\AGENORWOTH MUNGANGA\Desktop\Tp-examen-GROUPE1-\Examen_GL_Groupe01\obj\Debug\Examen_GL_Groupe01._3._Forms.frmPrincipal.resources
+C:\Users\AGENORWOTH MUNGANGA\Desktop\Tp-examen-GROUPE1-\Examen_GL_Groupe01\obj\Debug\Examen_GL_Groupe01.Properties.Resources.resources
+C:\Users\AGENORWOTH MUNGANGA\Desktop\Tp-examen-GROUPE1-\Examen_GL_Groupe01\obj\Debug\Examen_GL_Groupe01.csproj.GenerateResource.cache
+C:\Users\AGENORWOTH MUNGANGA\Desktop\Tp-examen-GROUPE1-\Examen_GL_Groupe01\obj\Debug\Examen_GL_Groupe01.csproj.CoreCompileInputs.cache
+C:\Users\AGENORWOTH MUNGANGA\Desktop\Tp-examen-GROUPE1-\Examen_GL_Groupe01\obj\Debug\Examen_GL_Groupe01.exe
+C:\Users\AGENORWOTH MUNGANGA\Desktop\Tp-examen-GROUPE1-\Examen_GL_Groupe01\obj\Debug\Examen_GL_Groupe01.pdb

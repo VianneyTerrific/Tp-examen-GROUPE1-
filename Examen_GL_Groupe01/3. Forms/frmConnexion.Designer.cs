@@ -72,6 +72,7 @@
             this.cmbDbType.Name = "cmbDbType";
             this.cmbDbType.Size = new System.Drawing.Size(328, 30);
             this.cmbDbType.TabIndex = 120;
+            this.cmbDbType.SelectedIndexChanged += new System.EventHandler(this.cmbDbType_SelectedIndexChanged);
             // 
             // txtServer
             // 
@@ -108,6 +109,7 @@
             this.checkBox1.TabIndex = 117;
             this.checkBox1.Text = "Voir le mot de passe";
             this.checkBox1.UseVisualStyleBackColor = true;
+            this.checkBox1.CheckedChanged += new System.EventHandler(this.checkBox1_CheckedChanged);
             // 
             // btnMin
             // 
@@ -124,6 +126,7 @@
             this.btnMin.Size = new System.Drawing.Size(58, 54);
             this.btnMin.TabIndex = 116;
             this.btnMin.UseVisualStyleBackColor = false;
+            this.btnMin.Click += new System.EventHandler(this.btnMin_Click);
             // 
             // btnExit
             // 
@@ -140,6 +143,7 @@
             this.btnExit.Size = new System.Drawing.Size(58, 54);
             this.btnExit.TabIndex = 115;
             this.btnExit.UseVisualStyleBackColor = false;
+            this.btnExit.Click += new System.EventHandler(this.btnExit_Click);
             // 
             // txtPassword
             // 
@@ -272,6 +276,7 @@
             this.btnLogin.TabIndex = 104;
             this.btnLogin.Text = "LOGIN";
             this.btnLogin.UseVisualStyleBackColor = false;
+            this.btnLogin.Click += new System.EventHandler(this.btnLogin_Click);
             // 
             // pictureBox5
             // 
@@ -390,6 +395,7 @@
             this.Name = "frmConnexion";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "frmConnexion";
+            this.Load += new System.EventHandler(this.frmConnexion_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).EndInit();
