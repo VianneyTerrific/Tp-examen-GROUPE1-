@@ -29,8 +29,6 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmPrincipal));
-            this.frmTelephone1 = new Examen_GL_Groupe01._2._Users_Controls.frmTelephone();
-            this.frmPersonne1 = new Examen_GL_Groupe01._2._Users_Controls.frmPersonne();
             this.button2 = new System.Windows.Forms.Button();
             this.button5 = new System.Windows.Forms.Button();
             this.button4 = new System.Windows.Forms.Button();
@@ -39,7 +37,6 @@
             this.panel2 = new System.Windows.Forms.Panel();
             this.label4 = new System.Windows.Forms.Label();
             this.btnExit = new System.Windows.Forms.Button();
-            this.frmAdresse1 = new Examen_GL_Groupe01._2._Users_Controls.frmAdresse();
             this.label2 = new System.Windows.Forms.Label();
             this.btnTelephone = new System.Windows.Forms.Button();
             this.btnAdresse = new System.Windows.Forms.Button();
@@ -51,29 +48,15 @@
             this.SidePanel = new System.Windows.Forms.Panel();
             this.btnDomicile = new System.Windows.Forms.Button();
             this.panel1 = new System.Windows.Forms.Panel();
+            this.frmAdresse1 = new Examen_GL_Groupe01._2._Users_Controls.frmAdresse();
+            this.frmDomicile1 = new Examen_GL_Groupe01._2._Users_Controls.frmDomicile();
+            this.frmPersonne1 = new Examen_GL_Groupe01._2._Users_Controls.frmPersonne();
+            this.frmTelephone1 = new Examen_GL_Groupe01._2._Users_Controls.frmTelephone();
             this.panel2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             this.SidePanel.SuspendLayout();
             this.panel1.SuspendLayout();
             this.SuspendLayout();
-            // 
-            // frmTelephone1
-            // 
-            this.frmTelephone1.BackColor = System.Drawing.Color.White;
-            this.frmTelephone1.Location = new System.Drawing.Point(264, 68);
-            this.frmTelephone1.Margin = new System.Windows.Forms.Padding(6);
-            this.frmTelephone1.Name = "frmTelephone1";
-            this.frmTelephone1.Size = new System.Drawing.Size(1149, 969);
-            this.frmTelephone1.TabIndex = 22;
-            // 
-            // frmPersonne1
-            // 
-            this.frmPersonne1.BackColor = System.Drawing.Color.White;
-            this.frmPersonne1.Location = new System.Drawing.Point(264, 68);
-            this.frmPersonne1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.frmPersonne1.Name = "frmPersonne1";
-            this.frmPersonne1.Size = new System.Drawing.Size(1149, 969);
-            this.frmPersonne1.TabIndex = 20;
             // 
             // button2
             // 
@@ -154,6 +137,7 @@
             this.btnMin.Size = new System.Drawing.Size(58, 62);
             this.btnMin.TabIndex = 8;
             this.btnMin.UseVisualStyleBackColor = false;
+            this.btnMin.Click += new System.EventHandler(this.btnMin_Click);
             // 
             // panel2
             // 
@@ -197,15 +181,7 @@
             this.btnExit.Size = new System.Drawing.Size(58, 68);
             this.btnExit.TabIndex = 8;
             this.btnExit.UseVisualStyleBackColor = false;
-            // 
-            // frmAdresse1
-            // 
-            this.frmAdresse1.BackColor = System.Drawing.Color.White;
-            this.frmAdresse1.Location = new System.Drawing.Point(264, 68);
-            this.frmAdresse1.Margin = new System.Windows.Forms.Padding(6);
-            this.frmAdresse1.Name = "frmAdresse1";
-            this.frmAdresse1.Size = new System.Drawing.Size(1149, 969);
-            this.frmAdresse1.TabIndex = 21;
+            this.btnExit.Click += new System.EventHandler(this.btnExit_Click);
             // 
             // label2
             // 
@@ -237,6 +213,7 @@
             this.btnTelephone.Text = "    Téléphone";
             this.btnTelephone.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.btnTelephone.UseVisualStyleBackColor = false;
+            this.btnTelephone.Click += new System.EventHandler(this.btnTelephone_Click);
             // 
             // btnAdresse
             // 
@@ -255,6 +232,7 @@
             this.btnAdresse.Text = "    Adresse";
             this.btnAdresse.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.btnAdresse.UseVisualStyleBackColor = false;
+            this.btnAdresse.Click += new System.EventHandler(this.btnAdresse_Click);
             // 
             // btnPersonne
             // 
@@ -273,6 +251,7 @@
             this.btnPersonne.Text = "    Personne";
             this.btnPersonne.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.btnPersonne.UseVisualStyleBackColor = false;
+            this.btnPersonne.Click += new System.EventHandler(this.btnPersonne_Click);
             // 
             // pictureBox2
             // 
@@ -312,6 +291,7 @@
             this.btnDisconnect.Size = new System.Drawing.Size(58, 54);
             this.btnDisconnect.TabIndex = 2;
             this.btnDisconnect.UseVisualStyleBackColor = false;
+            this.btnDisconnect.Click += new System.EventHandler(this.btnDisconnect_Click);
             // 
             // panel5
             // 
@@ -349,6 +329,7 @@
             this.btnDomicile.Text = "    Domicile";
             this.btnDomicile.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.btnDomicile.UseVisualStyleBackColor = false;
+            this.btnDomicile.Click += new System.EventHandler(this.btnDomicile_Click);
             // 
             // panel1
             // 
@@ -370,6 +351,38 @@
             this.panel1.Size = new System.Drawing.Size(264, 1038);
             this.panel1.TabIndex = 18;
             // 
+            // frmAdresse1
+            // 
+            this.frmAdresse1.BackColor = System.Drawing.Color.White;
+            this.frmAdresse1.Location = new System.Drawing.Point(264, 64);
+            this.frmAdresse1.Name = "frmAdresse1";
+            this.frmAdresse1.Size = new System.Drawing.Size(1149, 969);
+            this.frmAdresse1.TabIndex = 20;
+            // 
+            // frmDomicile1
+            // 
+            this.frmDomicile1.BackColor = System.Drawing.Color.White;
+            this.frmDomicile1.Location = new System.Drawing.Point(264, 64);
+            this.frmDomicile1.Name = "frmDomicile1";
+            this.frmDomicile1.Size = new System.Drawing.Size(1149, 969);
+            this.frmDomicile1.TabIndex = 21;
+            // 
+            // frmPersonne1
+            // 
+            this.frmPersonne1.BackColor = System.Drawing.Color.White;
+            this.frmPersonne1.Location = new System.Drawing.Point(264, 64);
+            this.frmPersonne1.Name = "frmPersonne1";
+            this.frmPersonne1.Size = new System.Drawing.Size(1149, 969);
+            this.frmPersonne1.TabIndex = 22;
+            // 
+            // frmTelephone1
+            // 
+            this.frmTelephone1.BackColor = System.Drawing.Color.White;
+            this.frmTelephone1.Location = new System.Drawing.Point(264, 64);
+            this.frmTelephone1.Name = "frmTelephone1";
+            this.frmTelephone1.Size = new System.Drawing.Size(1149, 969);
+            this.frmTelephone1.TabIndex = 23;
+            // 
             // frmPrincipal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
@@ -378,14 +391,16 @@
             this.ClientSize = new System.Drawing.Size(1414, 1038);
             this.Controls.Add(this.frmTelephone1);
             this.Controls.Add(this.frmPersonne1);
-            this.Controls.Add(this.panel2);
+            this.Controls.Add(this.frmDomicile1);
             this.Controls.Add(this.frmAdresse1);
+            this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "frmPrincipal";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "frmPrincipal";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.frmPrincipal_FormClosing);
             this.panel2.ResumeLayout(false);
             this.panel2.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
@@ -397,9 +412,6 @@
         }
 
         #endregion
-
-        private _2._Users_Controls.frmTelephone frmTelephone1;
-        private _2._Users_Controls.frmPersonne frmPersonne1;
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button button5;
         private System.Windows.Forms.Button button4;
@@ -408,7 +420,6 @@
         private System.Windows.Forms.Panel panel2;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Button btnExit;
-        private _2._Users_Controls.frmAdresse frmAdresse1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Button btnTelephone;
         private System.Windows.Forms.Button btnAdresse;
@@ -420,5 +431,9 @@
         private System.Windows.Forms.Panel SidePanel;
         private System.Windows.Forms.Button btnDomicile;
         private System.Windows.Forms.Panel panel1;
+        private _2._Users_Controls.frmAdresse frmAdresse1;
+        private _2._Users_Controls.frmDomicile frmDomicile1;
+        private _2._Users_Controls.frmPersonne frmPersonne1;
+        private _2._Users_Controls.frmTelephone frmTelephone1;
     }
 }
