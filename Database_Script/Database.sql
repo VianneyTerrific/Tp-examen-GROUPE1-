@@ -1,8 +1,10 @@
 create database gestion_personne
 go
 
+
 use gestion_personne
 go
+
 
 create table personne
 (
@@ -16,6 +18,7 @@ create table personne
 )
 go
 
+
 create table adresse
 (
 	id varchar(50),
@@ -26,6 +29,7 @@ create table adresse
 	constraint pk_adresse primary key(id)
 )
 go
+
 
 create table domicile
 (
@@ -41,6 +45,7 @@ create table domicile
 	references adresse(id)
 )
 go
+
 
 create table telephone 
 (
