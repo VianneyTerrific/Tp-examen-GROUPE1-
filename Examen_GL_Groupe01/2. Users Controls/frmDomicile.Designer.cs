@@ -78,6 +78,7 @@
             this.txtSearch.Name = "txtSearch";
             this.txtSearch.Size = new System.Drawing.Size(354, 32);
             this.txtSearch.TabIndex = 216;
+            this.txtSearch.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtSearch_KeyPress);
             // 
             // label4
             // 
@@ -100,6 +101,7 @@
             this.txtAdresse.Size = new System.Drawing.Size(525, 32);
             this.txtAdresse.TabIndex = 214;
             this.txtAdresse.Visible = false;
+            this.txtAdresse.TextChanged += new System.EventHandler(this.txtAdresse_TextChanged);
             // 
             // txtPersonne
             // 
@@ -112,6 +114,7 @@
             this.txtPersonne.Size = new System.Drawing.Size(525, 32);
             this.txtPersonne.TabIndex = 213;
             this.txtPersonne.Visible = false;
+            this.txtPersonne.TextChanged += new System.EventHandler(this.txtPersonne_TextChanged);
             // 
             // txtAvenue
             // 
@@ -143,6 +146,7 @@
             this.txtNumAv.Size = new System.Drawing.Size(525, 33);
             this.txtNumAv.TabIndex = 210;
             this.txtNumAv.ValidatingType = typeof(int);
+            this.txtNumAv.Click += new System.EventHandler(this.txtNumAv_Click);
             // 
             // label5
             // 
@@ -166,6 +170,7 @@
             this.btnPrint.Size = new System.Drawing.Size(100, 55);
             this.btnPrint.TabIndex = 207;
             this.btnPrint.UseVisualStyleBackColor = false;
+            this.btnPrint.Click += new System.EventHandler(this.btnPrint_Click);
             // 
             // btnDelete
             // 
@@ -179,6 +184,7 @@
             this.btnDelete.Size = new System.Drawing.Size(100, 55);
             this.btnDelete.TabIndex = 208;
             this.btnDelete.UseVisualStyleBackColor = false;
+            this.btnDelete.Click += new System.EventHandler(this.btnDelete_Click);
             // 
             // btnEnreg
             // 
@@ -193,6 +199,7 @@
             this.btnEnreg.Size = new System.Drawing.Size(100, 55);
             this.btnEnreg.TabIndex = 206;
             this.btnEnreg.UseVisualStyleBackColor = false;
+            this.btnEnreg.Click += new System.EventHandler(this.btnEnreg_Click);
             // 
             // btnModifier
             // 
@@ -210,6 +217,7 @@
             this.btnModifier.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.btnModifier.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.btnModifier.UseVisualStyleBackColor = false;
+            this.btnModifier.Click += new System.EventHandler(this.btnModifier_Click);
             // 
             // txtIdAdresse
             // 
@@ -283,6 +291,7 @@
             this.cmbAdresse.Name = "cmbAdresse";
             this.cmbAdresse.Size = new System.Drawing.Size(525, 34);
             this.cmbAdresse.TabIndex = 203;
+            this.cmbAdresse.SelectedIndexChanged += new System.EventHandler(this.cmbAdresse_SelectedIndexChanged);
             // 
             // cmbPersonne
             // 
@@ -294,6 +303,7 @@
             this.cmbPersonne.Name = "cmbPersonne";
             this.cmbPersonne.Size = new System.Drawing.Size(525, 34);
             this.cmbPersonne.TabIndex = 202;
+            this.cmbPersonne.SelectedIndexChanged += new System.EventHandler(this.cmbPersonne_SelectedIndexChanged);
             // 
             // txtIdDomicile
             // 
@@ -330,6 +340,7 @@
             this.DgDomicile.RowTemplate.Height = 24;
             this.DgDomicile.Size = new System.Drawing.Size(1083, 475);
             this.DgDomicile.TabIndex = 204;
+            this.DgDomicile.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.DgDomicile_CellContentClick);
             // 
             // frmDomicile
             // 
@@ -362,6 +373,7 @@
             this.Controls.Add(this.DgDomicile);
             this.Name = "frmDomicile";
             this.Size = new System.Drawing.Size(1149, 969);
+            this.Load += new System.EventHandler(this.frmDomicile_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.DgDomicile)).EndInit();
             this.ResumeLayout(false);
