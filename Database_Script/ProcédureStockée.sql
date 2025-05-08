@@ -41,6 +41,7 @@ go
 
 
 
+
 --Ajout adresse
 create procedure sp_AjouterAdresse
 	@id varchar(50),@quartier varchar(50),@commune varchar(50),
@@ -81,6 +82,7 @@ begin
 	select * from adresse order by quartier asc
 end
 go
+
 
 
 
@@ -128,6 +130,7 @@ begin
 	order by nom asc
 end
 go
+
 
 
 

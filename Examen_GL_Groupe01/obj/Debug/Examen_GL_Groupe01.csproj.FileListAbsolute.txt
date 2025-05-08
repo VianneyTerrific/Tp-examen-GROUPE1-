@@ -415,3 +415,5 @@ C:\Users\AHADI CLEMENCE\Desktop\Tp-examen-GROUPE1-\Examen_GL_Groupe01\obj\Debug\
 C:\Users\AHADI CLEMENCE\Desktop\Tp-examen-GROUPE1-\Examen_GL_Groupe01\obj\Debug\Examen_GL_Groupe01.csproj.CoreCompileInputs.cache
 C:\Users\AHADI CLEMENCE\Desktop\Tp-examen-GROUPE1-\Examen_GL_Groupe01\obj\Debug\Examen_GL_Groupe01.exe
 C:\Users\AHADI CLEMENCE\Desktop\Tp-examen-GROUPE1-\Examen_GL_Groupe01\obj\Debug\Examen_GL_Groupe01.pdb
+C:\Users\Bahadoor\Desktop\Tp-examen-GROUPE1-\Examen_GL_Groupe01\bin\Debug\ManageSingleConnexion.dll
+C:\Users\Bahadoor\Desktop\Tp-examen-GROUPE1-\Examen_GL_Groupe01\bin\Debug\ManageSingleConnexion.pdb

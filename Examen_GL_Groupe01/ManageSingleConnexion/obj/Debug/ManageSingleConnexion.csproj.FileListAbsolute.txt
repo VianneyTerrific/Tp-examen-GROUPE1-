@@ -16,3 +16,9 @@ C:\Users\AHADI CLEMENCE\Desktop\Tp-examen-GROUPE1-\Examen_GL_Groupe01\ManageSing
 C:\Users\AHADI CLEMENCE\Desktop\Tp-examen-GROUPE1-\Examen_GL_Groupe01\ManageSingleConnexion\obj\Debug\ManageSingleConnexion.csproj.CoreCompileInputs.cache
 C:\Users\AHADI CLEMENCE\Desktop\Tp-examen-GROUPE1-\Examen_GL_Groupe01\ManageSingleConnexion\obj\Debug\ManageSingleConnexion.dll
 C:\Users\AHADI CLEMENCE\Desktop\Tp-examen-GROUPE1-\Examen_GL_Groupe01\ManageSingleConnexion\obj\Debug\ManageSingleConnexion.pdb
+C:\Users\Bahadoor\Desktop\Tp-examen-GROUPE1-\Examen_GL_Groupe01\ManageSingleConnexion\bin\Debug\ManageSingleConnexion.dll
+C:\Users\Bahadoor\Desktop\Tp-examen-GROUPE1-\Examen_GL_Groupe01\ManageSingleConnexion\bin\Debug\ManageSingleConnexion.pdb
+C:\Users\Bahadoor\Desktop\Tp-examen-GROUPE1-\Examen_GL_Groupe01\ManageSingleConnexion\obj\Debug\ManageSingleConnexion.csproj.AssemblyReference.cache
+C:\Users\Bahadoor\Desktop\Tp-examen-GROUPE1-\Examen_GL_Groupe01\ManageSingleConnexion\obj\Debug\ManageSingleConnexion.csproj.CoreCompileInputs.cache
+C:\Users\Bahadoor\Desktop\Tp-examen-GROUPE1-\Examen_GL_Groupe01\ManageSingleConnexion\obj\Debug\ManageSingleConnexion.dll
+C:\Users\Bahadoor\Desktop\Tp-examen-GROUPE1-\Examen_GL_Groupe01\ManageSingleConnexion\obj\Debug\ManageSingleConnexion.pdb
