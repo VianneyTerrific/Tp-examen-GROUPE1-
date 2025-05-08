@@ -403,3 +403,15 @@ C:\Users\AGENORWOTH MUNGANGA\Desktop\Tp-examen-GROUPE1-\Examen_GL_Groupe01\obj\D
 C:\Users\AGENORWOTH MUNGANGA\Desktop\Tp-examen-GROUPE1-\Examen_GL_Groupe01\obj\Debug\Examen_GL_Groupe01.csproj.CoreCompileInputs.cache
 C:\Users\AGENORWOTH MUNGANGA\Desktop\Tp-examen-GROUPE1-\Examen_GL_Groupe01\obj\Debug\Examen_GL_Groupe01.exe
 C:\Users\AGENORWOTH MUNGANGA\Desktop\Tp-examen-GROUPE1-\Examen_GL_Groupe01\obj\Debug\Examen_GL_Groupe01.pdb
+C:\Users\AHADI CLEMENCE\Desktop\Tp-examen-GROUPE1-\Examen_GL_Groupe01\obj\Debug\Examen_GL_Groupe01.csproj.AssemblyReference.cache
+C:\Users\AHADI CLEMENCE\Desktop\Tp-examen-GROUPE1-\Examen_GL_Groupe01\obj\Debug\Examen_GL_Groupe01._2._Users_Controls.frmAdresse.resources
+C:\Users\AHADI CLEMENCE\Desktop\Tp-examen-GROUPE1-\Examen_GL_Groupe01\obj\Debug\Examen_GL_Groupe01._2._Users_Controls.frmDomicile.resources
+C:\Users\AHADI CLEMENCE\Desktop\Tp-examen-GROUPE1-\Examen_GL_Groupe01\obj\Debug\Examen_GL_Groupe01._2._Users_Controls.frmPersonne.resources
+C:\Users\AHADI CLEMENCE\Desktop\Tp-examen-GROUPE1-\Examen_GL_Groupe01\obj\Debug\Examen_GL_Groupe01._2._Users_Controls.frmTelephone.resources
+C:\Users\AHADI CLEMENCE\Desktop\Tp-examen-GROUPE1-\Examen_GL_Groupe01\obj\Debug\Examen_GL_Groupe01._3._Forms.frmConnexion.resources
+C:\Users\AHADI CLEMENCE\Desktop\Tp-examen-GROUPE1-\Examen_GL_Groupe01\obj\Debug\Examen_GL_Groupe01._3._Forms.frmPrincipal.resources
+C:\Users\AHADI CLEMENCE\Desktop\Tp-examen-GROUPE1-\Examen_GL_Groupe01\obj\Debug\Examen_GL_Groupe01.Properties.Resources.resources
+C:\Users\AHADI CLEMENCE\Desktop\Tp-examen-GROUPE1-\Examen_GL_Groupe01\obj\Debug\Examen_GL_Groupe01.csproj.GenerateResource.cache
+C:\Users\AHADI CLEMENCE\Desktop\Tp-examen-GROUPE1-\Examen_GL_Groupe01\obj\Debug\Examen_GL_Groupe01.csproj.CoreCompileInputs.cache
+C:\Users\AHADI CLEMENCE\Desktop\Tp-examen-GROUPE1-\Examen_GL_Groupe01\obj\Debug\Examen_GL_Groupe01.exe
+C:\Users\AHADI CLEMENCE\Desktop\Tp-examen-GROUPE1-\Examen_GL_Groupe01\obj\Debug\Examen_GL_Groupe01.pdb

@@ -72,6 +72,7 @@
             this.txtSearch.Name = "txtSearch";
             this.txtSearch.Size = new System.Drawing.Size(354, 32);
             this.txtSearch.TabIndex = 171;
+            this.txtSearch.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtSearch_KeyPress);
             // 
             // txtPays
             // 
@@ -135,6 +136,7 @@
             this.btnPrint.Size = new System.Drawing.Size(100, 55);
             this.btnPrint.TabIndex = 164;
             this.btnPrint.UseVisualStyleBackColor = false;
+            this.btnPrint.Click += new System.EventHandler(this.btnPrint_Click);
             // 
             // btnDelete
             // 
@@ -148,6 +150,7 @@
             this.btnDelete.Size = new System.Drawing.Size(100, 55);
             this.btnDelete.TabIndex = 165;
             this.btnDelete.UseVisualStyleBackColor = false;
+            this.btnDelete.Click += new System.EventHandler(this.btnDelete_Click);
             // 
             // btnEnreg
             // 
@@ -162,6 +165,7 @@
             this.btnEnreg.Size = new System.Drawing.Size(100, 55);
             this.btnEnreg.TabIndex = 163;
             this.btnEnreg.UseVisualStyleBackColor = false;
+            this.btnEnreg.Click += new System.EventHandler(this.btnEnreg_Click);
             // 
             // btnModifier
             // 
@@ -179,6 +183,7 @@
             this.btnModifier.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.btnModifier.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.btnModifier.UseVisualStyleBackColor = false;
+            this.btnModifier.Click += new System.EventHandler(this.btnModifier_Click);
             // 
             // DgAdresse
             // 
@@ -193,6 +198,7 @@
             this.DgAdresse.RowTemplate.Height = 24;
             this.DgAdresse.Size = new System.Drawing.Size(1083, 475);
             this.DgAdresse.TabIndex = 161;
+            this.DgAdresse.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.DgAdresse_CellContentClick);
             // 
             // txtQuartier
             // 
@@ -281,6 +287,7 @@
             this.Controls.Add(this.label2);
             this.Name = "frmAdresse";
             this.Size = new System.Drawing.Size(1149, 969);
+            this.Load += new System.EventHandler(this.frmAdresse_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.DgAdresse)).EndInit();
             this.ResumeLayout(false);
